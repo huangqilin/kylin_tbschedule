@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tbschedule:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tbschedule-3.3.3.2.war">
+      <element id="artifact" artifact-name="tbschedule:war exploded" />
+    </root>
+  </artifact>
+</component>
